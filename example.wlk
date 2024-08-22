@@ -70,7 +70,7 @@ object roque {
 
   method cambiarAve(nuevaAve) {
     aveActual = nuevaAve
-    contadorDeCenas = 0  // Reinicia el contador cuando cambio de ave
+    contadorDeCenas = 0  // Reinicia el contador cuando cambio de aves 
   }
 
   method alimentar(alimento) {
